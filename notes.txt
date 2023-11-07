@@ -1,0 +1,19 @@
+C - Card
+R - value, suit, rank, know where it is in the deck
+C - Deck
+
+C - Deck
+R - is shuffled, card dealt from deck, holds the cards in an order
+C - card 
+
+C - Dealer
+R - has hand, hit on 16/stay on 17, know whether they won or busted
+C -
+
+C - Player
+R - has hand, hit/stay their choice, know whether they won, lost or busted
+C 
+
+C - Game
+R - know when it is over
+C 
